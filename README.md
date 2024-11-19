@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-I’m Felipe Martins Rodrigues, a **Business Analyst** passionate about solving complex problems with data. My expertise lies in **analytics solutions**, **process optimization**, and delivering actionable insights that drive strategic decisions. Here's a bit about what I do and how I can help:
+I’m Felipe Martins Rodrigues, a **Business Analyst** passionate about solving complex business problems with data. My expertise lies in **analytics solutions**, **process optimization**, and delivering actionable insights that drive strategic decisions. Here's a bit about what I do and how I can help:
 
 - 🔭 **Currently working at:**  
   [Nilo](https://nilo.health), a Series A LinkedIn Top 20 startup, where I’m leading initiatives in **health analytics** to enhance client operations and refine care pathways. My focus is on creating scalable dashboards, implementing efficient workflows, and leveraging data to maximize impact.
