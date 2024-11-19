@@ -22,7 +22,7 @@ I’m Felipe Martins Rodrigues, a **Business Analyst** passionate about solving 
   Turning raw data into valuable insights, building scalable analytics systems, and empowering teams with data-driven solutions.
 
 - 📫 **Connect with me:**  
-  Reach out via [LinkedIn](https://www.linkedin.com/in/felipemartinsrodrigues) or email me at **felipmr@example.com**.
+  Reach out via [LinkedIn](https://www.linkedin.com/in/felipemartinsrodrigues) or email me at **felipemartinsr@outlook.com**.
 
 ---
 
